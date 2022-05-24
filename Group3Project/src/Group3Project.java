@@ -9,8 +9,12 @@ public class Group3Project {
 */
 	public static void main(String[] args) 
 	{
+<<<<<<< HEAD
 		//
 		Scanner input = new Scanner(System.in);
+=======
+		
+>>>>>>> branch 'master' of https://github.com/Georgia14377/Group3
 		
 		System.out.println("Enter a number between 1 and 20: ");//user gets asked to input number
 		int pnum = input.nextInt();//answer gets recorded
