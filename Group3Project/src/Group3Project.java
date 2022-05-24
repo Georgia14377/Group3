@@ -1,13 +1,14 @@
+/*
+	Program: Group3Project.java          Date: May 19th 2022
+	Author: Georgia Mollet, Anjali Sanjay, ----, ----
+	School: CHHS
+	Course: Computer Science 10
+*/
 import java.util.Scanner;
 
 public class Group3Project {
 	
-	/*
-	Program: Group3Project.java          Date: May 19th 2022
-	Author: Georgia Mollet, ---, ----, ----
-	School: CHHS
-	Course: Computer Science 10
-*/
+	
 	public static void main(String[] args) 
 	{
 
