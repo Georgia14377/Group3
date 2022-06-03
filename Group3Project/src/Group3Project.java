@@ -12,7 +12,7 @@ public class Group3Project {
 	public static void main(String[] args) 
 	{
 
-		//
+		
 		Scanner input = new Scanner(System.in);
 
 		
